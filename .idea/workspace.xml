@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8940c88-d0f1-4c27-9bb5-0f3665e2d69b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php_oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php_oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +57,15 @@
       <workItem from="1597233646098" duration="834000" />
       <workItem from="1597234713686" duration="4774000" />
       <workItem from="1597301713760" duration="3134000" />
-      <workItem from="1597387001362" duration="3843000" />
+      <workItem from="1597387001362" duration="4550000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="476" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597418838778">
@@ -78,15 +82,19 @@
     </state>
     <state x="810" y="507" key="NewPhpFileDialog/0.23.2048.1052@0.23.2048.1052" timestamp="1597334019516" />
     <state x="810" y="542" key="NewPhpFileDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1597417765774" />
-    <state x="1054" y="565" key="Vcs.Push.Dialog.v2" timestamp="1597418974287">
+    <state x="686" y="422" key="Vcs.Push.Dialog.v2" timestamp="1597419748455">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="1054" y="565" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1597418974287" />
+    <state x="686" y="422" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1597419748455" />
     <state x="1013" y="331" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597417999286">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="1013" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1052@0.23.2048.1052" timestamp="1597241287224" />
     <state x="1013" y="331" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1597417999286" />
+    <state x="1252" y="746" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597419603892">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="1252" y="746" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1129@0.23.2048.1129" timestamp="1597419603892" />
     <state x="1276" y="726" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597418885346">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
