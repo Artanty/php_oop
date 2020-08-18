@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8940c88-d0f1-4c27-9bb5-0f3665e2d69b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php_oop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="b8940c88-d0f1-4c27-9bb5-0f3665e2d69b" name="Default Changelist" comment="abstract class">
+      <change afterPath="$PROJECT_DIR$/09/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/User.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fzvH91swEVFcJay2NXbRZkbZvE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,39 +77,59 @@
       <workItem from="1597233646098" duration="834000" />
       <workItem from="1597234713686" duration="4774000" />
       <workItem from="1597301713760" duration="3134000" />
-      <workItem from="1597387001362" duration="4550000" />
+      <workItem from="1597387001362" duration="4453000" />
+      <workItem from="1597646769023" duration="5248000" />
+      <workItem from="1597733676347" duration="2932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ww" />
+    <MESSAGE value="abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="476" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597418838778">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="0" y="476" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1597418838778" />
+    <state x="1013" y="409" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597670573317">
+      <screen x="0" y="23" width="2048" height="1052" />
+    </state>
+    <state x="1013" y="409" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2048.1052@0.23.2048.1052" timestamp="1597670573317" />
     <state x="720" y="331" key="NewPhpClassDialog" timestamp="1597418316747">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="720" y="310" key="NewPhpClassDialog/0.23.2048.1052@0.23.2048.1052" timestamp="1597240694400" />
     <state x="720" y="331" key="NewPhpClassDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1597418316747" />
-    <state x="810" y="542" key="NewPhpFileDialog" timestamp="1597417765774">
-      <screen x="0" y="23" width="2048" height="1129" />
+    <state x="810" y="507" key="NewPhpFileDialog" timestamp="1597761849878">
+      <screen x="0" y="23" width="2048" height="1052" />
     </state>
-    <state x="810" y="507" key="NewPhpFileDialog/0.23.2048.1052@0.23.2048.1052" timestamp="1597334019516" />
+    <state x="810" y="507" key="NewPhpFileDialog/0.23.2048.1052@0.23.2048.1052" timestamp="1597761849878" />
     <state x="810" y="542" key="NewPhpFileDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1597417765774" />
-    <state x="686" y="422" key="Vcs.Push.Dialog.v2" timestamp="1597419748455">
+    <state x="686" y="422" key="Vcs.Push.Dialog.v2" timestamp="1597419623022">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="686" y="422" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1597419748455" />
-    <state x="1013" y="331" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597417999286">
-      <screen x="0" y="23" width="2048" height="1129" />
+    <state x="686" y="422" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1597419623022" />
+    <state x="1013" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597762085344">
+      <screen x="0" y="23" width="2048" height="1052" />
     </state>
-    <state x="1013" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1052@0.23.2048.1052" timestamp="1597241287224" />
+    <state x="1013" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1052@0.23.2048.1052" timestamp="1597762085344" />
     <state x="1013" y="331" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1597417999286" />
     <state x="1252" y="746" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597419603892">
       <screen x="0" y="23" width="2048" height="1129" />
@@ -99,9 +139,10 @@
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="1276" y="726" key="git4idea.remote.GitConfigureRemotesDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1597418885346" />
-    <state x="1119" y="476" width="670" height="676" key="search.everywhere.popup" timestamp="1597415989279">
-      <screen x="0" y="23" width="2048" height="1129" />
+    <state x="1119" y="445" width="670" height="630" key="search.everywhere.popup" timestamp="1597670878137">
+      <screen x="0" y="23" width="2048" height="1052" />
     </state>
+    <state x="1119" y="445" width="670" height="630" key="search.everywhere.popup/0.23.2048.1052@0.23.2048.1052" timestamp="1597670878137" />
     <state x="1119" y="476" width="670" height="676" key="search.everywhere.popup/0.23.2048.1129@0.23.2048.1129" timestamp="1597415989279" />
   </component>
 </project>
